@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KRACDBVB
 
 [Document3]
-DocumentPath=..\..\Elektrotechniek 2017 - 2018\Project 2\Altium PCB Project Files\Component Library\Patient Alarm System Altium Integrated Library of Components.IntLib
+DocumentPath=..\..\..\..\Altium\AD18\Library\Component Library\Patient Alarm System Altium Integrated Library of Components.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,6 +87,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project1\Design Rule Check - Prac FabLab.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
