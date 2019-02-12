@@ -1,0 +1,19 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[Prac FabLab_Copper_Signal_Top.gbr]
+   Generated File[Prac FabLab_Copper_Signal_Bot.gbr]
+   Generated File[Prac FabLab_Pads_Bot.gbr]
+   Generated File[Prac FabLab_Pads_Top.gbr]
+   Generated File[Prac FabLab_Legend_Top.gbr]
+   Generated File[Prac FabLab_Profile.gbr]
+   Generated File[Prac FabLab_PTH_Drill.gbr]
+   Generated File[Prac FabLab.RUL]
+   Generated File[Prac FabLab.EXTREP]
+   Generated File[Prac FabLab.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:15:43 AM On 2/12/2019
